@@ -6,7 +6,7 @@ disable_warnings()
 
 """
     reverse IP, Subdomain Enumerate, Etc.
-    code by Dinar, @dinar1337
+    code by Dinar, fb.com/dinar1337
     free of use
 """
 
